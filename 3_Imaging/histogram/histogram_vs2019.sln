@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "histogram", "histogram_vs2019.vcxproj", "{979D3E0C-343D-4E29-BE34-834C6AC9C1EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979D3E0C-343D-4E29-BE34-834C6AC9C1EF}.Debug|x64.ActiveCfg = Debug|x64
+		{979D3E0C-343D-4E29-BE34-834C6AC9C1EF}.Debug|x64.Build.0 = Debug|x64
+		{979D3E0C-343D-4E29-BE34-834C6AC9C1EF}.Release|x64.ActiveCfg = Release|x64
+		{979D3E0C-343D-4E29-BE34-834C6AC9C1EF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DCD5780-2B1B-4F47-AE43-62D8511BCDBA}
+	EndGlobalSection
+EndGlobal
